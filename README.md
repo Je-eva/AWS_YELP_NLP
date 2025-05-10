@@ -62,5 +62,7 @@ SELECT
   review_text:stars::integer AS stars
 FROM yelp_reviews_raw;
 ```
+
+## Did several queries which is posted in my query.sql 
 ## 📚 Credits
 Tutorial Inspiration: [Ankit Bansal](https://www.youtube.com/watch?v=oXLxbk5USFg&list=PLBTZqjSKn0Ie0FvR3_ass_iTIqYV_CAth&index=11)
