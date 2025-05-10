@@ -61,3 +61,6 @@ SELECT
   review_text:user_id::string AS user_id,
   review_text:stars::integer AS stars
 FROM yelp_reviews_raw;
+```
+## 📚 Credits
+Tutorial Inspiration: [Ankit Bansal](https://www.youtube.com/watch?v=oXLxbk5USFg&list=PLBTZqjSKn0Ie0FvR3_ass_iTIqYV_CAth&index=11)
